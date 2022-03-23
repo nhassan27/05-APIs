@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore the checkpoint files
+.ipynb_checkpoints
+
+# Ignore files related to API keys
+.env
